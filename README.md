@@ -1,4 +1,3 @@
-URL : https://mmrecommenderxhvyqjzoo6h53nm42234z.streamlit.app/
 
 # 🎬 Mood-Based Movie Recommender
 A Machine Learning web application that suggests movies based on the user's emotional state.
@@ -12,3 +11,5 @@ A Machine Learning web application that suggests movies based on the user's emot
 1. Clone the repo: `git clone <your-repo-link>`
 2. Install requirements: `pip install -r requirements.txt`
 3. Run the app: `streamlit run app.py`
+
+URL : https://mmrecommenderxhvyqjzoo6h53nm42234z.streamlit.app/
